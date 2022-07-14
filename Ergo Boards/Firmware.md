@@ -1,0 +1,8 @@
+### QMK
+QMK is the most common firmware for writing keymaps. It is based on the programming language 'C' and can be quite complicated to learn how to code and compile. It does have its benefits tho, mainly that it is the most common firmware to use and therefore has the most support for hardware components and software features.
+### ZMK
+ZMK is somewhat similar to QMK in that is written in 'C' however its main defining feature is the fact that it supports bluetooth controllers such as the nice!nano which is very preferable for many 'on-the-go' users. Being a less mainstream firmware it obviously has less support and features.
+### KMK
+KMK is highly recommended for new builders for a number of reasons. Firstly it is based on microPython, the microcontroller version of python that users very similar syntax, and is therefore very easy to pick up quickly. There is also a great Github page where you can download everything you will need and it describes and gives examples of how to use all of the special features. It also doesn't require any compiling which makes it very easy to use: all you need to do to load new code onto the board is connect it with a cable to your pc and then press save and the code editor and board deal with the rest (this is made possible by the fact that unlike C which is a compiled language, python is an interpreted language).
+### Others
+There are a number of other firmware options based on different languages. For example, PMK is becomming increasingly popular, and is based on 'Ruby'. The only advantage of choosing firmwares that I haven't mentioned here is if you are already familiar of the syntax of a language then it can make life simpler if you choose a firmware based on that language.

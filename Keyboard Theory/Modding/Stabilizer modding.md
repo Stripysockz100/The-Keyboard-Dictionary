@@ -1,0 +1,4 @@
+Stabilizer modding can seem overwhelming to beginers, but it is actually relatively simple when you know what you are doing.
+The best place to start is to go and watch a few tutorials on youtube, TaehaTypes has a very good one.
+
+It is important to lube all of the required places on your stabilisers, as just one missed spot could ruin the whole sound of the board. Basically just lube all of the insides of the housings with plenty of Krytox 205G0 (don't overlube them though), and lube the ends of the wire, that go into the housing, with a very generous amount of dialectric grease (or krytox 205G0 if you don't have that). I won't say much more than that though, as describing every brush stroke is quite hard, so just watch enough people do it so you can get a feel for how to do it.

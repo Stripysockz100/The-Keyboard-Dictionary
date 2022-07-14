@@ -1,0 +1,8 @@
+Keyboard plates are sometimes considered to be the least useful part of a board, but can be make or break for the some enthusiasts. This is because they are technically not necessary but can drastically improve performance if chosen correctly.
+
+If the switches of a board are soldered to the PCB, then the plate only provides stability for the board and a slightly firmer bottom out feel. However it is definately recommended to include a plate in a build with a hotswap PCB, as the hotswap sockets won't be firm enough to hold the switches in a stable manner. 
+An example of this is with many custom *ergo* boards, there will just be a PCB with the switches soldered to it to minimise the size and weight of the board. 
+
+I covered the possible plate materials and their properties in the materials guide so more information on feel can be found there.
+
+It is vital that the correct plate is bought for the PCB and case. This is easier when buying a *barebones kit* as this is done for you, however when buying parts separately, it is important to check compatablity. The first thing to check is the size of the plate, and whether it will fit inside the case you are buying, this can usually be found on reddit or *Geekhack*. Next, check the layout compatability with the PCB. This will usually be quite clear, as vendors often show images of completed boards, which will show you the layout(s) it is configured for. 

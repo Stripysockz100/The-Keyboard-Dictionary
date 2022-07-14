@@ -1,0 +1,23 @@
+### The Problem of Size
+The problem with so much choice is just that: it can sometimes be impossible to choose.
+
+If you know you want an *ergo*/split board but don't know which to get, an easy place to start is: what size board are you using right now and how much do you want to change that.
+
+The largest ergo boards are any Ergodox, some dactyls, and the ZSA moonlander. these are similar in size to a 60% or 65%. These are recommended if you are already on a board of similar size to that but want to be able to type more ergonomically, or if you are coming from a larger board and want a 'stepping stone' to make the jump from say a tkl to a planck easier.
+
+The next size down is something like a Lily 58 / Sofle / Iris. These are boards that would be equivalent to about 45-50%. They are rarely used as stepping stones because they don't easily bridge an obviouys gap. However the market for these kinds of boards is among the hgihgest in the ergo market due to their lying in the 'sweetspot' of number and positions of keys for a large number of people. They maintain lots of functionality whilst making it so that every key is at most 1 key distance from a finger (occasionally 2 in a thumb cluster depending on the layout).
+
+Continuing the decrease in size to the 40% market where the 2 main layouts in this category are the reviung41 and the planck. They differ in that the reviung is a standalone keyboard product built with a bend in it to reduce *ulnar deviation*, whereas the planck is a fairly common and standard layout (a 4x12 ortholinear grid) and has many keyboards built upon its layout.
+
+The penultimate size range is an odd middle ground between 40 and 35% where it doesnt quite fit in either category. These board styes include the cantor and corne. they are effectively 35% boards with not quite enough keys added onto the sides to make them a 40% board, so technically they would be called 38% boards (but no one calls them that). These are considered *endgame* by a large collection of enthusiasts (which I don't personally understand, because I don't see how the extra outside column is helpful for anything, i just find it reduces the ergonomic qualities of the board somewhat)
+
+The next decrease is to the final rung of what are generally considered 'usable keyboards': the 30-35% boards. these all have fairly similar layouts, only varying in their number of keys by a few between boards. These include the Gergoplex, Ferris, and Ferris sweep, as well as many other open source, community designed boards. Almost all keyboards by this stage are so small that the users want choc (low profile) switches, so you would be very hard done to find an mx compatible 30% board.
+
+The above boards are the closest to standard sizes the ergo commmunity does, but there are many ergo boards that don't fit into any specific category. An example of this is the preonic layout: effectively the planck with an extra row on top, making them basically ortholinear 60% boards. 
+I just want to quickly mention [Ben Vallack](https://www.youtube.com/benvallack), a youtuber who (among other things) explains his journey into the ergo community very nicely and is looking into going towards smaller and smaller endgame boards (including a 25%, a split board with only 16 keys per hand , and a board with one key per hand where he developed a way of combining up to 3 taps per finger to create lots of options for such a tiny keyboard).
+
+### The Ginny and Chording Keyboards
+Following on nicely from the weird and wonderful world of incomprehensible keyboards, we reach the chording keyboard world.
+Stenographers (typeists who do aural dictation and need to be able to type at upwards of 250-200wpm) often use stenographs, but sometimes use special keyboards with 12 or 14 keys called chording keyboards, which use a property of keyboards where holding down multiple keys at the same time can mean a different thing to a different combination, allowing for more possible characters than keys. While this sin't practical for every day use as there aren't enough key combinations for all special characters, numbers and symbols as well as all the letters, steno/chording keyboards are still incredible pieces of tech I had to mention.
+
+There are many chording keyboards out there but a couple of well known ones are the ginny and georgi. They of course don't just work out of the box and it takes months to learn to type quickly on them, but for the right reasons they are definately worth setting up and learning.

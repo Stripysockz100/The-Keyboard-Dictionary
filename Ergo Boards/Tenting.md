@@ -1,0 +1,5 @@
+Tenting is a simple concept. It involves lifting up the inner sides of a split board, allowing for a more ergonomic wrist position to be achieved. 
+
+Your wrist position when typing on a standard board is described as closed, because your wrists are turned towards the centre of the board, which after long periods of use can cause RSI. To minimise this, the halves of the board are angled, with the outside edges flat on the table and the inside edges raised up. This allows for a more neutral, comfortable wrist position to be achieved. 
+
+The main methods of tenting are: tenting kits and the resting method. Tenting kits can be bought from many ergo board suppliers, or can be 3d printed (there are lots of designs for different sizes and shapes of board online). The other method is the resting method, where you simply rest or blue tack the inner edges onto a raised platform between the halves, like a book, allowing the tenting angle to be achieved without having to buy anything new. Either method works, though the former is more recommended as it is a more stable and long lasting method of maintaining the tenting angle.

@@ -1,0 +1,5 @@
+There are 4 common types of switch: choc, linear, tactile, and clicky. They all differ in there feel and sound, and choosing what you want can be difficult. The best way to find a switch you like is to buy a switch tester online, because no amount of description will tell you exactly how a switch feels to you.
+
+One of the most important aspects of a switch is the weight, the magnitude of force required to decompress the switch to actuation, and then to bottom out. Lighter switches are better for typists because it generally allows you to type faster, but heavier is sometime preferred because it minimises the number of accidental keypresses.
+
+Switches work by when you press the stem down, it bridges a small electrical gap with the copper 'leaf', allowing a current to pass through. The PCB and microcontroller detect the switch press and convert it to a signal, which is then sent to the computer. More detail can be found on this on the PCB matrices page.

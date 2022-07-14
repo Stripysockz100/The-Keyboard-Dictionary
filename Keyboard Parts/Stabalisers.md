@@ -1,0 +1,7 @@
+Stabilisers are vital for any keyboard, as they allow larger keys to be compressed easily and without tilting.
+
+There are 2 types of stabilisers: plate mount and PCB mount. Plate mounted stabilisers just clip into place in the plate. This provides issues as they can sometimes slip or become misaligned. PCB mounted stabilisers are preferable, but the PCB itself has to support them, as they are screwed directly into the PCB, therefore making the more stable. This can sometimes be tricky so ensure you know exactly what you are doing before attaching then.
+
+An important part of using stabilisers is clipping the feet. This involves using a pair of small wire cutters or strong scissors (or a craft knife) to clip off the tiny bumpers on the bottom of the travelling part of the stabiliser. This makes the stabiliser travel more smoothly and gives the switch full control of the bottom out. I would very very highly recommend that you watch lots of videos of how to do this, as you don't want to cut off the wrong bit.
+
+Lots of boards that come with stabilisers use either their own or very cheap stabilisers to reduce the cost, but these are often low quality and no amount of lubing can save their sound and feel, so almost all keyboard builders use a specific model called 'Durock V2 stabilisers' because they are the highest quality, and sound and feel the best.

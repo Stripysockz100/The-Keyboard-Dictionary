@@ -1,0 +1,7 @@
+There are a number of different ways of wiring the PCB of a keyboard. As I mentioned in the description of key rollover, the different ways of wiring the PCB give different effects. Diodeless layouts need a special algorithm which makes them cheaper but less effective as you can lose certain keypresses. Then the different layouts used with diodes are where it gets interesting.
+
+The most common layout is the diode grid where you pass current through the columns of switches in sequence, and have diodes between the switches and the rows, where you detect where the current is flowing (this also works in the inverse, with current flowing from the columns to the rows, there is no particular difference in usage of either). This is a simple but effective method of allowing for many keys to be detected wihtout needing a pin for each.
+
+A slight adaptation of that is where a column pin passes current through 2 physical columns of switches and then 2 rows are used to detect keypresses on 1 physical row of keys, this increases the possible number of keys by roughly 10% on a standard board. The firmware for this is obviously more complicated for this, however no custom scanning code is required to allow it to function correctly.
+
+If you want to have giant layouts (ie 200%+) for custom workstation boards, you can use matrices like the japanese bi-directional layout, the round robin layout, and a few others, where sneaky tricks like 2 directions of diodes to double the number of pins, and voltage drop across diodes to prevent ghosting across diode chains.
