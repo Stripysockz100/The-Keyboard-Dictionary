@@ -1,8 +1,3 @@
-dye sub vs double shot
-colours
-pudding caps
-shine through!!!
-
 ### Legend application
 There are 2 methods of adding *legends* to a keycap.
 
